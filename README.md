@@ -1,4 +1,4 @@
-# FOCA: Feature-extractor Optimization through Classifier Anonymizatino [1]
+# FOCA: Feature-extractor Optimization through Classifier Anonymization [1]
 
 Code of FOCA: Feature-extractor Optimization through Classifier Anonymization [1].  This source code reproduces the results (to be appeared [2]) using Wide ResNet [3] and PyramidNet [4] trained on CIFAR-10 and CIFAR-100 [5].
 
